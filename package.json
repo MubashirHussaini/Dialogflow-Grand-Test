@@ -1,0 +1,22 @@
+{
+  "name": "my-nodejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^6.7.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dialogflow": "^4.0.3",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.3"
+  }
+}
